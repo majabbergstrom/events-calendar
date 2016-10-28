@@ -26,3 +26,10 @@ table, thead, tbody, th, tr, td {
   border-radius: 10px;
   background-color: #d1e0bf;
 }
+
+.twenty-two {
+  border: 1px solid #1d38da;
+  color: #38448e;
+  border-radius: 10px;
+  background-color: #d2d6f0;
+}
